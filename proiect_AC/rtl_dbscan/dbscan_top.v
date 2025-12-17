@@ -79,4 +79,5 @@ module dbscan_top #(
         wcore,
         done
     );
+    
 endmodule

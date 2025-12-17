@@ -9,3 +9,4 @@ module dbscan_distance_unit (
 
     assign dist2 = dx*dx + dy*dy + dz*dz;
 endmodule
+ 

@@ -14,5 +14,5 @@ iverilog -o sim \
 
 vvp sim
 
-# CORECT: scriptul e în root
+
 python3 dbscan_plot_clusters.py

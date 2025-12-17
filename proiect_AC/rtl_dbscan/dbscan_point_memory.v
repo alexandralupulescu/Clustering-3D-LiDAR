@@ -58,4 +58,6 @@ module dbscan_point_memory #(
         if (we_core)
             core_mem[waddr] <= wcore;
     end
+    
 endmodule
+ 
